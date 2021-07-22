@@ -38,7 +38,7 @@ Mac / Linux:
 
 # Run
 
-The `gpt3.py` file contains the function that calls the API, and the program.py file, which calls it, is what we'll execute.  So just go:
+The `gpt3.py` file contains the function that calls the API, and the `program.py` file, which calls it, is what we'll execute.  So just go:
 
 ```shell
 python program.py
