@@ -4,9 +4,10 @@ import openai
 openai.api_key = os.getenv('OPENAI_KEY')
 
 
-def gpt3(prompt, engine='davinci', response_length=64,
+def gpt3(prompt, engine='davinci', response_length=256,
          temperature=0.7, top_p=1, frequency_penalty=0, presence_penalty=0,
-         start_text='', restart_text='', stop_seq=[]):
+         start_text='', restart_text='', stop_seq=None):
+    
     response = openai.Completion.create(
         prompt=prompt + start_text,
         engine=engine,
