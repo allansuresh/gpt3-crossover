@@ -89,8 +89,9 @@ def convert_to_json(data):
 		
 		# First element of pair contains speaker
 		dict_pair["prompt"] = pair[0]
-		# Second element of pair contains dialogue
-		dict_pair["completion"] = pair[1]
+		# Second element of pair contains dialogue, append whitespace to front according to OpenAI recommendations.
+		# Refer: https://beta.openai.com/docs/guides/fine-tuning/preparing-your-dataset
+		dict_pair["completion"] = " " + pair[1]
 
 		ret_list.append(dict_pair)
 
