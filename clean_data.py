@@ -97,10 +97,10 @@ def convert_to_json(data):
 	return ret_list
 
 
-def main():
-	input_filename = "Transcripts/Iron_Man.txt"
-	output_filename = "Transcripts/finetune_data.jsonl"
-
+# Function to take raw data from input file and write cleaned JSONL formatted text to output file
+# Takes names of input and output filenames as arguments
+# No return
+def pipeline(input_filename, output_filename):
 	# Reading data from file
 	with open(input_filename, "r") as input_file:
 		data = input_file.read()
@@ -133,6 +133,13 @@ def main():
 		for line in output_file:
 			print(line)
 	'''
+
+
+def main():
+	input_filename = "Transcripts/IM.txt"
+	output_filename = "Transcripts/finetune_data.jsonl"
+
+	pipeline(input_filename, output_filename)
 
 
 if __name__ == "__main__":
