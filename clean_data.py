@@ -56,20 +56,31 @@ def split_lines(data):
 	return split
 
 
-# Function to convert list of lines to list of (speaker, dialogue) tuple pairs
-# Takes list of strings as argument
+# Function to convert list of lines to list of (prompt, response) tuple pairs
+# Takes list of strings and names of people whose responses we want, as arguments
 # Returns list of tuples
-def convert_to_tuple(data):
+def convert_to_tuple(data, names):
 	pairs = []
+
+	# Variable to store the dialogue from previous loop iteration
+	prev = ""
 
 	for line in data:
 		split_index = line.find(":")
 
 		# speaker contains part of string until ":", including ":"
 		speaker = line[:split_index+1].strip()
-		dialogue = line[split_index+1:].strip()
+		response = line[split_index+1:].strip()
 
-		pairs.append((speaker, dialogue))
+		prompt = prev + "\n" + speaker
+		# Store the response for the next loop
+		prev = response
+
+		# If the speaker is someone we want, prompt for their response is whatever was said last along with their name
+		if speaker[:-1].lower() not in names or prompt[0:1] == "\n":
+			continue
+
+		pairs.append((prompt, response))
 
 	return pairs
 
@@ -99,9 +110,9 @@ def convert_to_json(data):
 
 
 # Function to take raw data from input file and write cleaned JSONL formatted text to output file
-# Takes names of input and output filenames as arguments
+# Takes names of input, output filenames, and names we care about as arguments
 # No return
-def pipeline(input_filename, output_filename):
+def pipeline(input_filename, output_filename, names):
 	# Reading data from file
 	with open(input_filename, "r") as input_file:
 		data = input_file.read()
@@ -116,7 +127,7 @@ def pipeline(input_filename, output_filename):
 	#print(lines)
 
 	# Converting each line to a (speaker, dialogue) tuple
-	pairs = convert_to_tuple(lines)
+	pairs = convert_to_tuple(lines, names)
 	#for i in pairs: print(i)
 
 	# Converting each tuple to a JSON pair
@@ -137,10 +148,12 @@ def pipeline(input_filename, output_filename):
 
 
 def main():
-	input_filename = "Transcripts/IM.txt"
+	input_filenames = ["Transcripts/IM.txt"]
 	output_filename = "Transcripts/finetune_data.jsonl"
+	names = ["tony stark", "tony", "steve rogers", "thor"]
 
-	pipeline(input_filename, output_filename)
+	for input_filename in input_filenames:
+		pipeline(input_filename, output_filename, names)
 
 
 if __name__ == "__main__":
