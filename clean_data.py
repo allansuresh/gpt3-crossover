@@ -1,23 +1,33 @@
+from os import walk  # For getting names of input files
 import json
 
 
-# Function to remove action lines and descriptors from script - the stuff between square brackets
+# Function to remove action lines and descriptors from script - the stuff between brackets
 # Takes string as argument
 # Returns string
 def remove_action(data):
 	rem_data = ""
 
-	# Since we update i inside the loop when we find an index of closing square bracket, while works better than for, which doesn't allow updating as easily
+	# Since we update i inside the loop when we find an index of closing bracket, while works better than for, which doesn't allow updating as easily
 	i = 0
 	while i < len(data):
 		if data[i] == "[":
 			# Finding index of first closing bracket after the index of the opening bracket
 			closing_index = data.find("]", i)
-			# Skip to the index two steps after the closing square bracket, to account for double spaces
-			i = closing_index + 2
+			i = closing_index + 1
+			# Accounting for double spaces
+			if i < len(data) and data[i] == " ":
+				i = i + 1
+			continue
+
+		if data[i] == "(":
+			closing_index = data.find(")", i)
+			i = closing_index + 1
+			if i < len(data) and data[i] == " ":
+				i = i + 1
 			continue
 		
-		# Append character if not between square brackets to output
+		# Append character if not between brackets to output
 		rem_data = rem_data + data[i]
 
 		i = i + 1
@@ -72,15 +82,19 @@ def convert_to_tuple(data, names):
 		speaker = line[:split_index+1].strip()
 		response = line[split_index+1:].strip()
 
-		prompt = prev + "\n" + speaker
-		# Store the response for the next loop
-		prev = response
-
 		# If the speaker is someone we want, prompt for their response is whatever was said last along with their name
-		if speaker[:-1].lower() not in names or prompt[0:1] == "\n":
+		# The second conditional is for the case that the first speaker in a script is someone we want - there's no prompt there
+		if speaker[:-1].lower() not in names.keys() or prev == "\n":
+			# Store the response for the next loop
+			prev = response
 			continue
 
-		pairs.append((prompt, response))
+		prompt = prev + "\n" + names[speaker[:-1].lower()] + ":"
+		prev = response
+
+		# Unicode characters are hard to deal with, so if they're in these, best to drop those lines
+		if str.isascii(prompt) and str.isascii(response):
+			pairs.append((prompt, response))
 
 	return pairs
 
@@ -114,7 +128,7 @@ def convert_to_json(data):
 # No return
 def pipeline(input_filename, output_filename, names):
 	# Reading data from file
-	with open(input_filename, "r") as input_file:
+	with open(input_filename, "r", encoding="utf8") as input_file:
 		data = input_file.read()
 	#print(data)
 
@@ -148,9 +162,18 @@ def pipeline(input_filename, output_filename, names):
 
 
 def main():
-	input_filenames = ["Transcripts/IM.txt"]
-	output_filename = "Transcripts/finetune_data.jsonl"
-	names = ["tony stark", "tony", "steve rogers", "thor"]
+	# Getting list of files in the Transcripts folder
+	input_filenames = ["Transcripts/" + name for name in next(walk("Transcripts"), (None, None, []))[2]]
+	output_filename = "finetune_data.jsonl"
+	# Dict of different ways names appear in the scripts, mapped to the proper way we want them to appear
+	names = {
+			"tony stark":"Tony", "tony":"Tony", "iron man":"Tony", "steve rogers":"Steve", "steve":"Steve", "captain america":"Steve", "thor":"Thor", "loki": "Loki", 
+			"scott":"Scott", "scott lang":"Scott", "peter parker":"Peter", "peter":"Peter", "natasha":"Black Widow", "natasha romanoff":"Black Widow", "banner":"Bruce Banner", 
+			"fury":"Fury", "nick fury":"Fury", "clint":"Hawkeye", "barton":"Hawkeye", "wanda":"Wanda", "wanda maximoff":"Wanda", "vision":"Vision", 
+			"carol danvers":"Captain Marvel", "carol":"Captain Marvel", "vers":"Captain Marvel", "thanos":"Thanos", "peter quill":"Star-Lord", "quill":"Star-Lord", 
+			"doctor strange":"Doctor Strange", "stephen":"Doctor Strange", "stephen strange":"Doctor Strange", "dr. stephen strange":"Doctor Strange", 
+			"arthur":"Aquaman", "bruce wayne":"Batman", "batman":"Batman", "superman":"Superman", "clark kent":"Superman", "diana":"Wonder Woman", 
+			}
 
 	for input_filename in input_filenames:
 		pipeline(input_filename, output_filename, names)

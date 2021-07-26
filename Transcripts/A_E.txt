@@ -1080,7 +1080,7 @@ THUG #1: あいつだ! アキヒコさんを！(Romanized: Aitsu da! Akihiko-san
 
 AKIHIKO: てめえ なぜこんなことをする? 俺たちてめえになにもしてねぇだろ！(Romanized: Temē naze konna koto wo suru? Oretachi temē ni nani mo shitenē daro!) (English: Why are you doing this? We never did anything to you!)
 
-RONIN: [As he draws out his katana and reversibly wields it.]地球の半分 サノスにやられた... お前はなぜ無事なの…(Romanized: Chikyū no hanbun sanosu ni yarareta... Omae wa naze buji nano...) (English: You survived... Half of the planet didn't. They got Thanos... you get me.)
+RONIN: [As he draws out his katana and reversibly wields it.]地球の半分 サノスにやられた... お前はなぜ無事なの...(Romanized: Chikyū no hanbun sanosu ni yarareta... Omae wa naze buji nano...) (English: You survived... Half of the planet didn't. They got Thanos... you get me.)
 
 [Both sides engaged in combat as Ronin pierces his stomach, but doing only minor damage to him.]
 
@@ -1756,7 +1756,7 @@ BRUCE BANNER: With all due respect, I'm not sure the science really supports tha
 
 [The Ancient One creates a projection with a long ray that simulates the flow of time.]
 
-THE ANCIENT ONE (2012): The Infinity Stones create what you experience as the flow of time. Remove one stone and that flow splits. [She flicks the Time Stone projection away and Shows black stream indicating a point of divergence] Now, this may benefit your reality, but my new one…not so much. In this new branched Reality, without our chief weapon against the forces of darkness, our world will be overrun. Millions will suffer. So, tell me, Doctor, can your science prevent all that?
+THE ANCIENT ONE (2012): The Infinity Stones create what you experience as the flow of time. Remove one stone and that flow splits. [She flicks the Time Stone projection away and Shows black stream indicating a point of divergence] Now, this may benefit your reality, but my new one...not so much. In this new branched Reality, without our chief weapon against the forces of darkness, our world will be overrun. Millions will suffer. So, tell me, Doctor, can your science prevent all that?
 
 BRUCE BANNER: No, but we can erase it. Because once we are done with the stones, we can return each one to its own timeline at the moment it was taken. So, chronologically, [Holds the Time Stone projection] in that reality, [puts it back to its spot] it never left.
 
@@ -1974,7 +1974,7 @@ RHODEY: Whoa, whoa, whoa, whoa...This is the part where spikes come out with ske
 
 NEBULA: What are you talking about?
 
-RHODEY: When you break into a place called the temple of the Power Stone, There's gonna be a bunch of booby traps–
+RHODEY: When you break into a place called the temple of the Power Stone, There's gonna be a bunch of booby traps-
 
 [Nebula just shakes her head and walks in.]
 
@@ -2048,15 +2048,15 @@ THANOS (2014): I know. And you'll have the chance to prove it.
 
 [Thanos (2014) makes sure Nebula cannot travel back to 2023. Nebula is stuck in 2014.]
 
-NEBULA: No! He knows! [Runs back to the ship and gets on the comms.] Barton? Barton, come in. Romanoff? Come in, we have a problem. Come on! Come in, we have a prob....Thanos knows. Thanos… He knows.
+NEBULA: No! He knows! [Runs back to the ship and gets on the comms.] Barton? Barton, come in. Romanoff? Come in, we have a problem. Come on! Come in, we have a prob....Thanos knows. Thanos... He knows.
 
 [Nebula looks up in horror just to be abducted by the Sanctuary II. The scene cuts to Steve, who has just defeated himself, jumping down from a building with the scepter]
 
-TONY STARK: Cap–
+TONY STARK: Cap-
 
 [He turns around to see Tony and Scott sitting in a broken car.]
 
-TONY STARK: Sorry, buddy. We got a– problem.
+TONY STARK: Sorry, buddy. We got a- problem.
 
 SCOTT LANG: Huh. Yeah, we do.
 
@@ -2064,15 +2064,15 @@ STEVE ROGERS: Well, what are we gonna do now?
 
 TONY STARK: You know what? Give me a break, Steve. I just got hit in the head with the Hulk.
 
-SCOTT LANG: You said that we had one shot. This– this was our shot. We shot it. It's shot. Six stones or nothing. Six stones or nothing–
+SCOTT LANG: You said that we had one shot. This- this was our shot. We shot it. It's shot. Six stones or nothing. Six stones or nothing-
 
 TONY STARK: You're repeating yourself, you know that? You're repeating yourself.
 
-SCOTT LANG: You're repeating yourself. You're repeating yourself. You know– No.
+SCOTT LANG: You're repeating yourself. You're repeating yourself. You know- No.
 
 TONY STARK: Dude, come on.
 
-SCOTT LANG: You never wanted a time heist, you went on board with the time heist–
+SCOTT LANG: You never wanted a time heist, you went on board with the time heist-
 
 TONY STARK: I dropped the ball.
 
@@ -2084,7 +2084,7 @@ SCOTT LANG: Yeah!
 
 STEVE ROGERS: Are there any other options with the Tesseract?
 
-SCOTT LANG: No, no, no. There's no other options. There's no do-overs. We're not going anywhere else. We have one particle left. Each. That's it, alright? We use that– Bye, bye. You're not going home.
+SCOTT LANG: No, no, no. There's no other options. There's no do-overs. We're not going anywhere else. We have one particle left. Each. That's it, alright? We use that- Bye, bye. You're not going home.
 
 STEVE ROGERS: Yeah, well if we don't try, then no one else is going home, either.
 
@@ -2092,13 +2092,13 @@ TONY STARK: I got it. There's another way. To retake the Tesseract and acquire n
 
 STEVE ROGERS: When were they both there?
 
-TONY STARK: They were there at a– I've a vaguely exact idea.
+TONY STARK: They were there at a- I've a vaguely exact idea.
 
 STEVE ROGERS: How vague?
 
 SCOTT LANG: What are you talking about? Where are we going?
 
-TONY STARK: I know for a fact they were there–
+TONY STARK: I know for a fact they were there-
 
 SCOTT LANG: Who's they? What are we doing?
 
@@ -2118,7 +2118,7 @@ SCOTT LANG: What's in New Jersey?
 
 TONY STARK: 0-4,
 
-STEVE ROGERS: 0-4– -
+STEVE ROGERS: 0-4- -
 
 TONY STARK: Uhh, 0-7.
 
@@ -2172,19 +2172,19 @@ TONY STARK: Oh, yeah.
 
 HOWARD STARK: I'm looking for Dr. Zola. Have you seen him?
 
-TONY STARK: Yeah, no, Dr. Zol– No, I haven't seen a soul. [awkwardly bumps into a chair] Pardon me.
+TONY STARK: Yeah, no, Dr. Zol- No, I haven't seen a soul. [awkwardly bumps into a chair] Pardon me.
 
 HOWARD STARK: Do I know you?
 
-TONY STARK: No, sir. I'm a– a visitor from MIT.
+TONY STARK: No, sir. I'm a- a visitor from MIT.
 
 HOWARD STARK: Huh. MIT. Got a name?
 
-TONY STARK: Uh– Howard.
+TONY STARK: Uh- Howard.
 
 HOWARD STARK: Well, that'll be easy to remember.
 
-TONY STARK: Howard– Potts.
+TONY STARK: Howard- Potts.
 
 HOWARD STARK: Well, I'm Howard Stark. [Holds out hand to shake.]
 
@@ -2192,7 +2192,7 @@ TONY STARK: Hi. [Holds Howard's finger]
 
 HOWARD STARK: Shake it, don't pull it.
 
-TONY STARK: Yeah–
+TONY STARK: Yeah-
 
 HOWARD STARK: You look a little green around the gills there, Potts.
 
@@ -2226,7 +2226,7 @@ CAPTAIN STEVENS (STEVE ROGERS): Well, that's the thing, sir. We can't.
 
 HANK PYM: I'm confused. I thought that was your job.
 
-CAPTAIN STEVENS (STEVE ROGERS): Well, it's just– Sir, the box is glowing and, to be honest, some of our mail guys aren't feeling that great.
+CAPTAIN STEVENS (STEVE ROGERS): Well, it's just- Sir, the box is glowing and, to be honest, some of our mail guys aren't feeling that great.
 
 HANK PYM: They didn't open it, did they?
 
@@ -2240,7 +2240,7 @@ HANK PYM: Excuse me! Out of the way!
 
 TONY STARK: So, flowers and sauerkraut. You got a big date tonight?
 
-HOWARD STARK: My wife's expecting. And, uh– Too much time in the office.
+HOWARD STARK: My wife's expecting. And, uh- Too much time in the office.
 
 TONY STARK: Congratulations.
 
@@ -2248,7 +2248,7 @@ HOWARD STARK: Thanks. Hold this, will you?
 
 TONY STARK: Yeah, sure. How far along is she?
 
-HOWARD STARK: I don't know– Uh– She's at the point where she can't stand the sound of my chewing. I guess I'll be eating dinner in the pantry again.
+HOWARD STARK: I don't know- Uh- She's at the point where she can't stand the sound of my chewing. I guess I'll be eating dinner in the pantry again.
 
 TONY STARK: I have a little girl.
 
@@ -2284,13 +2284,13 @@ HOWARD STARK: Well, if it's a boy, my wife likes Elmonzo.
 
 TONY STARK: Huh, Might wanna let that stew awwhile. You got time.
 
-HOWARD STARK: Let me ask you a question. When your kid was born– were you nervous?
+HOWARD STARK: Let me ask you a question. When your kid was born- were you nervous?
 
 TONY STARK: Wildly. Yeah.
 
 HOWARD STARK: Did you feel qualified? Like you had any idea how to successfully operate that thing?
 
-TONY STARK: I literally pieced it together as I went along, I thought about what my Dad did, and–
+TONY STARK: I literally pieced it together as I went along, I thought about what my Dad did, and-
 
 HOWARD STARK: My old man, he never met a problem he couldn't solve with a belt.
 
@@ -2306,7 +2306,7 @@ TONY STARK: He did his best.
 
 HOWARD STARK: Let me tell you. That kid's not even here yet, and there's nothing I wouldn't do for him. Good to meet you, Potts.
 
-TONY STARK: Yeah, Howard– Everything's gonna be all right. Thank you– for everything– you've done for this country.
+TONY STARK: Yeah, Howard- Everything's gonna be all right. Thank you- for everything- you've done for this country.
 
 HOWARD STARK: Jarvis, have we ever met that guy?
 
@@ -2334,7 +2334,7 @@ NEBULA (2014): How do I look?
 
 [Scene cuts to Vormir 2014 where Natasha and Clint arrives].
 
-CLINT BARTON: Wow– Under different circumstances, this would be totally awesome.
+CLINT BARTON: Wow- Under different circumstances, this would be totally awesome.
 
 [Natasha and Clint starts walking towards the mountain and climb it.]
 
@@ -2356,7 +2356,7 @@ RED SKULL (2014): Consider me a guide. To you, and to all who seek the Soul Ston
 
 NATASHA ROMANOFF: Oh, good. You tell us where it is. Then we'll be on our way.
 
-RED SKULL (2014): Ah, liebchen– If only it were that easy.
+RED SKULL (2014): Ah, liebchen- If only it were that easy.
 
 [Red Skull leads Clint and Natasha to the cliff]
 
@@ -2392,7 +2392,7 @@ NATASHA ROMANOFF: I guess we do.
 
 [Clint holds Natasha's hand and she reciprocates and they look at each other]
 
-CLINT BARTON: I'm starting to think– we mean different people here, Natasha.
+CLINT BARTON: I'm starting to think- we mean different people here, Natasha.
 
 NATASHA ROMANOFF: For the last five years I've been trying to do one thing: Get to right here. That's all it's been about. Bringing everybody back.
 
@@ -2400,7 +2400,7 @@ CLINT BARTON: Oh, don't you get all decent on me now.
 
 NATASHA ROMANOFF: What, you think I wanna do it? I'm trying to save your life, you idiot.
 
-CLINT BARTON: Yeah, well, I don't want you to, because I– Natasha, you know what I've done. You know what I've become.
+CLINT BARTON: Yeah, well, I don't want you to, because I- Natasha, you know what I've done. You know what I've become.
 
 NATASHA ROMANOFF: I don't judge people on their worst mistakes.
 
@@ -2432,7 +2432,7 @@ CLINT BARTON: No. Please, no.
 
 NATASHA ROMANOFF: It's okay.
 
-CLINT BARTON: Please– [Natasha kicks the wall, falls off the rope, and plummets to the ground.] NO!!!
+CLINT BARTON: Please- [Natasha kicks the wall, falls off the rope, and plummets to the ground.] NO!!!
 
 [The shot shows her body on the ground, dead. A boom in the sky sends Clint in a pool of water with the Soul Stone in his hand. He hits the ground out of sadness. His Quantum Suit activates and he shrinks back to the present day, soon joined by the others returning from their journeys.]
 
@@ -2456,13 +2456,13 @@ STEVE ROGERS: Yeah. Us.
 
 THOR: (confused) What?
 
-TONY STARK: I just asked him a question–
+TONY STARK: I just asked him a question-
 
 THOR: Yeah, you're acting like she's dead. Why are we acting like she's dead? We have the stones, right? As long as we have the stones, Cap, we can bring her back, isn't that right? [GROWLING.] So stop this shit. We're the Avengers, get it together.
 
 CLINT BARTON: We can't get her back.
 
-THOR: Wha– what?
+THOR: Wha- what?
 
 CLINT BARTON: It can't be undone. It can't.
 
@@ -2472,9 +2472,9 @@ THOR: I'm sorry. No offense, but you're a very earthly being. Okay? We're talkin
 
 CLINT BARTON: (to Thor) Yeah, look, I know that I'm way outside my paygrade here. But she still isn't here, is she?
 
-THOR: No, that's my point–
+THOR: No, that's my point-
 
-CLINT BARTON: It can't– be undone. Or that's at least what the red floating guy had to say. (shouts) Maybe you wanna go talk to him, okay? GO GRAB YOUR HAMMER, AND YOU GO FLY AND TALK TO HIM!
+CLINT BARTON: It can't- be undone. Or that's at least what the red floating guy had to say. (shouts) Maybe you wanna go talk to him, okay? GO GRAB YOUR HAMMER, AND YOU GO FLY AND TALK TO HIM!
 
 [Clint's anger is quickly replaced with grief]
 
@@ -2500,7 +2500,7 @@ SCOTT LANG: Excuse me?
 
 THOR: It's okay.
 
-EVERYONE: (holding up Thor) No, no, no, whoa. Stop. Stop. Wait a sec. Hey, hey–
+EVERYONE: (holding up Thor) No, no, no, whoa. Stop. Stop. Wait a sec. Hey, hey-
 
 STEVE ROGERS: Wait, wait, Thor, just wait. We haven't decided who's gonna put that on yet.
 
@@ -2510,13 +2510,13 @@ SCOTT LANG: We should at least discuss it.
 
 THOR: No, no, sitting here staring at that thing is not gonna bring everybody back. I'm the strongest Avenger, okay? So this responsibility falls upon me. It's my duty.
 
-TONY STARK: It's not about that–
+TONY STARK: It's not about that-
 
-THOR: (hushes everyone up) It's not that– Stop it! Just let me! (he tears up) Just let me do it. Just let me do something good. Something right.
+THOR: (hushes everyone up) It's not that- Stop it! Just let me! (he tears up) Just let me do it. Just let me do something good. Something right.
 
-TONY STARK : Look– It's not just the fact that that glove is channeling enough energy to light up a continent, I'm telling you, you're in no condition.
+TONY STARK : Look- It's not just the fact that that glove is channeling enough energy to light up a continent, I'm telling you, you're in no condition.
 
-THOR: What do you– What do you think is coursing through my veins right now?
+THOR: What do you- What do you think is coursing through my veins right now?
 
 RHODEY: Cheez Whiz?
 
@@ -2540,7 +2540,7 @@ TONY STARK: Good to go, yeah?
 
 BRUCE BANNER: Let's do it.
 
-TONY STARK: You remember– everyone Thanos snapped away five years ago and just bringing them back to now, today. Don't change anything from the last five years.
+TONY STARK: You remember- everyone Thanos snapped away five years ago and just bringing them back to now, today. Don't change anything from the last five years.
 
 BRUCE BANNER: Got it.
 
@@ -2580,7 +2580,7 @@ THOR: Worth a shot. It's over. It's okay.
 
 CLINT BARTON: (struggling to speak from sheer happiness) Honey. Honey.
 
-SCOTT LANG: Guys– I think it worked!
+SCOTT LANG: Guys- I think it worked!
 
 [Bruce opens his eyes and sees the Sanctuary II up in the sky and a single missile heading towards the base blowing away Scott away. Then a continuous array of missiles destroys the base completely and everyone sinks below to the underground.]
 
@@ -2694,7 +2694,7 @@ THANOS (2014): You could not live with your own failure. And where did that brin
 
 TONY STARK: Yep. We're all kinds of stubborn.
 
-THANOS (2014): I'm thankful. Because now, I know what I must do. [stands up] I will shred this universe down to its last atom. [Thanos (2014) puts on his helmet] And then– With the stones you've collected for me, create a new one. Teeming with life, but knows not what it has lost but only what it has been given. [Thor lights himself up.] A grateful universe.
+THANOS (2014): I'm thankful. Because now, I know what I must do. [stands up] I will shred this universe down to its last atom. [Thanos (2014) puts on his helmet] And then- With the stones you've collected for me, create a new one. Teeming with life, but knows not what it has lost but only what it has been given. [Thor lights himself up.] A grateful universe.
 
 STEVE ROGERS: Born out of blood.
 
@@ -2708,7 +2708,7 @@ SCOTT LANG: Hang on! I'm coming!
 
 [Hawkeye is running with the infinity gauntlet. He blows the place, and escapes before the Outriders overwhelm him. He sees Nebula.]
 
-CLINT BARTON: Oh, hey– I know you.
+CLINT BARTON: Oh, hey- I know you.
 
 [Clint gives her the gauntlet. then she puts her hand on her earpiece]
 
@@ -2770,7 +2770,7 @@ THOR: I knew it!
 
 [Steve staggeredly tries to get up.]
 
-THANOS (2014): In all my years of conquest– violence– slaughter– It was never personal. But I'll tell you now– what I'm about to do to your stubborn, annoying little planet– I'm gonna enjoy it. Very, very much.
+THANOS (2014): In all my years of conquest- violence- slaughter- It was never personal. But I'll tell you now- what I'm about to do to your stubborn, annoying little planet- I'm gonna enjoy it. Very, very much.
 
 [Thanos' (2014) entire army is summons to the ground which include the Children of Thanos, Chitauri, Sakaarans, Outriders and Chitauri Gorillas. Upon seeing the army descending on Earth, Steve slowly gets back to his feet. With a fierce determination, he tightens his broken shield to his arm and stands against Thanos' giant army alone. Suddenly, a crackling comes in on his communicator.]
 
@@ -2792,7 +2792,7 @@ WONG: What, you wanted more?
 
 [Giant-Man emerges from the rubble of the Avengers facility with Professor Hulk, War Machine, and Rocket. The Avengers, Guardians, Wakandans, Asgardians, and Ravagers take up battle positions. The heroes standing across Thanos' forces.]
 
-STEVE ROGERS: AVENGERS! [he summons Mjolnir] –assemble.
+STEVE ROGERS: AVENGERS! [he summons Mjolnir] -assemble.
 
 [Thor makes a battle cry, as does Black Panther and the heroes charge, the Avengers theme swelling with their stride. Thanos raises his sword towards them, commanding his army to charge as well. Then both sides collide. The camera switches between the meet-line, Drax and Korg, Pepper and Tony, all which are battling against Thanos' army.]
 
@@ -2802,7 +2802,7 @@ THOR: No, no, give me that. You have the little one. [best meme ever]
 
 [Later, Tony Stark is seen fighting some of Thanos' army. But Cull Obsidian punches him to the ground, then Giant-Man stomps him flat and Peter Parker runs to Tony.]
 
-PETER PARKER: Hey! Holy cow! You will not believe what's been going on. Do you remember when we were in space? And I got all dusty? I must've passed out, Because I woke up, and you were gone. But Doctor Strange was there, right? He was like, "It's been five years. Come on, they need us." And then he started doing the yellow sparkly thing that he does all the time–
+PETER PARKER: Hey! Holy cow! You will not believe what's been going on. Do you remember when we were in space? And I got all dusty? I must've passed out, Because I woke up, and you were gone. But Doctor Strange was there, right? He was like, "It's been five years. Come on, they need us." And then he started doing the yellow sparkly thing that he does all the time-
 
 TONY STARK: He did? Oh, God.
 
@@ -2820,11 +2820,11 @@ PETER QUILL: Gamora? [Peter slowly approaches Gamora (2014)] I thought I lost yo
 
 PETER QUILL: Ow.
 
-GAMORA (2014): [Kicks Peter in the nuts, slightly hurting Peter] Don't– touch– [Kicks him again, this time harder] me!
+GAMORA (2014): [Kicks Peter in the nuts, slightly hurting Peter] Don't- touch- [Kicks him again, this time harder] me!
 
 [Peter falls from the pain, while Gamora (2014) wipes her face.]
 
-PETER QUILL: You missed the first time– Then you got them both the second time.
+PETER QUILL: You missed the first time- Then you got them both the second time.
 
 GAMORA (2014): [to Nebula] This is the one? Seriously?
 
@@ -2870,7 +2870,7 @@ TONY STARK: You better be right.
 
 THE WASP: It's a mess back here.
 
-SCOTT LANG: It's– it's dead.
+SCOTT LANG: It's- it's dead.
 
 THE WASP: What?
 
@@ -2928,7 +2928,7 @@ STEVE: Hey, Queens, heads up.
 
 PEPPER POTTS: Hang on. I got you, kid. [She drops him on Valkyrie's Pegasus]
 
-PETER PARKER: Hey! Nice to meet you– OH, MY GOD!
+PETER PARKER: Hey! Nice to meet you- OH, MY GOD!
 
 [The cannons knock Peter Parker off the Pegasus, then they turn to face something in the sky as all the cannons start shooting at something.]
 
@@ -2946,7 +2946,7 @@ STEVE ROGERS: Danvers, we need an assist here.
 
 [Cut to Scott finally activating the Quantum Tunnel. Then cut to Carol Danvers landing near Peter, who is on the ground, weirdly hugging the gauntlet with his body.]
 
-PETER PARKER: Hi. I'm– Peter Parker.
+PETER PARKER: Hi. I'm- Peter Parker.
 
 CAROL DANVERS: Hey, Peter Parker. You got something for me?
 
@@ -2960,21 +2960,21 @@ OKOYE: She's got help.
 
 [Pepper lands next to Okoye, followed by Mantis, Shuri, the Wasp, 2014 Gamora and Nebula. Thanos' army charges while the women help Carol Danvers go through the Outriders, Sakaarans and Chitauri. 2014 Gamora takes out a gorilla, while Okoye takes out Corvus Glaive. Wanda and Valkyrie destroy two leviathans. Carol Danvers then starts flying towards the van with the Gauntlet, flying past enemies and going through enemy blockades that are in her way with ease. Thanos, seeing this, starts running to Carol Danvers, but is stopped by Pepper, Shuri and The Wasp, who blast him backwards. Thanos, after seeing Carol Danvers fly past him, throws his double sword at the van, destroying it and the quantum realm tunnel, throwing Carol Danvers backwards and losing her grip on the Gauntlet, which falls to the ground. Doctor Strange steadies the water after the explosion. In the final brawl for the Stark Gauntlet, Stark moves one of Thanos' enemies aside and sees the Gauntlet. He runs to get it, but sees Thanos, who Stark tackles. Thanos smacks Stark away, knocking him out. Then Thor arrives with Stormbreaker and 2013 Mjolnir in an attempt to pin Thanos' arm down, with assistance from Captain America. However, Thanos overpowers them and knocks them both out. After picking up the Gauntlet, Carol Danvers arrives, punching away at Thanos while he is holding the Gauntlet. She keeps punching him, but Thanos grabs her by the arm and flings her away. Thanos puts on the gauntlet, gamma radiation from the stones eating at him as he tries to snap, but Carol Danvers arises again, and stops his fingers from snapping, opening up his hand similar to what Captain America did in Avengers: Infinity War. Thanos headbutts her, but it does nothing. Just as Carol Danvers is gaining the upper hand by rising up and forcing Thanos onto his knees, Thanos pulls the Power Stone out of the Gauntlet and uses it in his free hand to hit Carol Danvers away. Stark looks in question at Strange, who simply raises one finger, reminding him that the one win over Thanos he foresaw is now at risk. Or is it? Stark nods. Thanos puts the Power Stone back into the Gauntlet, yelling from the gamma radiation coursing through him, until Stark makes one last attack on Thanos, pulling on the Gauntlet before Thanos punches him away.]
 
-THANOS (2014): I am– inevitable.
+THANOS (2014): I am- inevitable.
 
 [Thanos snaps his fingers, but nothing happens except a metallic "clink." He sees the Infinity Stones are missing. Tony has the stones on his own gauntlet, the gamma radiation coursing through him, to Thanos' shock.]
 
-TONY STARK: And I– am– Iron Man.
+TONY STARK: And I- am- Iron Man.
 
 [Tony snaps his fingers with a loud "CLANG" and a blinding flash of white. Rocket fires at a Leviathan and before it devours him, it crumbles into ash. The Black Order starts crumbling to ash. T'Challa and Quill look around in surprise; Steve looks on in exhaustion, knowing that they have won. Thanos, in horror, looks around and sees his entire army disintegrate. He looks at Steve, who just stares at him. Thanos sits down and mourns before slowly being erased from existence himself.]
 
 [Cut back to Tony. The power of the gauntlet raw energy has left his entire right side fatally injured. He stumbles for a bit before his body collapses besides a pile of debris. Rhodey soon flies in and goes up to Tony to see his long time colleague and friend fading away. He bows his head, knowing the damage was done. Peter Parker soon flies in and sees Tony collapsed on the ground.]
 
-PETER PARKER: Mr. Stark? [He runs up to his fallen mentor. Tears start to form in his eyes] Hey– Mr. Stark? Can you hear me? It's Peter. Hey. We won, Mr. Stark– We won, Mr. Stark. We won. You did it, sir. You did it. [He kneels]
+PETER PARKER: Mr. Stark? [He runs up to his fallen mentor. Tears start to form in his eyes] Hey- Mr. Stark? Can you hear me? It's Peter. Hey. We won, Mr. Stark- We won, Mr. Stark. We won. You did it, sir. You did it. [He kneels]
 
 [Tony is unresponsive. Peter breaks down and hugs him.]
 
-PETER PARKER: I'm sorry– Tony–
+PETER PARKER: I'm sorry- Tony-
 
 [Peter is gently led aside to grieve. Pepper Potts sits in front of the fading Iron Man.]
 
@@ -3004,7 +3004,7 @@ TONY STARK (voiceover): Everybody wants a happy ending, right? But it doesn't al
 
 [Cut to the Stark household. Pepper, Morgan, Happy Hogan, and Rhodey all watch Tony's holographic message being projected from his Iron Man helmet. Tony is sitting down recording the message.]
 
-TONY STARK (hologram): So I thought I'd probably better record a little greeting... In the case of an untimely death on my part. I mean, not that, death at any time isn't untimely. This time travel thing that we're gonna try and pull off tomorrow, it's– it's got me scratching my head about the survivability of it all. That's the thing. Then again, that's the hero gig. Part of the journey is the end. [Tony suddenly gets up walking towards his camera] What am I even trippin' for? Everything's gonna work out exactly the way it's supposed to. [He leans down and smiles. He is looking straight at Morgan] I love you 3,000.
+TONY STARK (hologram): So I thought I'd probably better record a little greeting... In the case of an untimely death on my part. I mean, not that, death at any time isn't untimely. This time travel thing that we're gonna try and pull off tomorrow, it's- it's got me scratching my head about the survivability of it all. That's the thing. Then again, that's the hero gig. Part of the journey is the end. [Tony suddenly gets up walking towards his camera] What am I even trippin' for? Everything's gonna work out exactly the way it's supposed to. [He leans down and smiles. He is looking straight at Morgan] I love you 3,000.
 
 [The message ends and the hologram cuts out.]
 
@@ -3012,9 +3012,9 @@ TONY STARK (hologram): So I thought I'd probably better record a little greeting
 
 [Cut to Clint and Wanda, standing by the riverside shortly afterwards.]
 
-CLINT: You know, I wish there was a way– that I could let her know. That we won. [Looks over to Wanda.] We did it.
+CLINT: You know, I wish there was a way- that I could let her know. That we won. [Looks over to Wanda.] We did it.
 
-WANDA MAXIMOFF: She knows– They both do.
+WANDA MAXIMOFF: She knows- They both do.
 
 [Clint gives her a side hug and Wanda reciprocates.]
 
@@ -3040,7 +3040,7 @@ MORGAN STARK: Okay.
 
 VALKYRIE: So, when can we expect you back?
 
-THOR: Um– about that–
+THOR: Um- about that-
 
 VALKYRIE: Thor. Your people need a king.
 
@@ -3060,7 +3060,7 @@ THOR: I'm counting on it. Your Majesty.
 
 VALKYRIE: What will you do?
 
-THOR: I'm not sure. For the first time in a thousand years, I– I have no path. I do have a ride, though.
+THOR: I'm not sure. For the first time in a thousand years, I- I have no path. I do have a ride, though.
 
 [Camera pans to the Benatar parked on the cliff]
 
@@ -3068,7 +3068,7 @@ ROCKET: Move it or lose it, hairbag.
 
 [scene cuts to Quill searching for Gamora on the screen as Thor walks in he closes it]
 
-THOR: Well, here we are. Tree! Good to see you. Well– [Thor removes his shades and taps Quill on the shoulder] The Asgardians of the Galaxy, back together again. Where to first? [Thor touches the screens map to pick their destination]
+THOR: Well, here we are. Tree! Good to see you. Well- [Thor removes his shades and taps Quill on the shoulder] The Asgardians of the Galaxy, back together again. Where to first? [Thor touches the screens map to pick their destination]
 
 QUILL: Hey, just so you know, this is my ship still. I'm in charge.
 
@@ -3076,11 +3076,11 @@ THOR: I know. I know. Of course, you are. Of course.
 
 QUILL: See, you say of course, but then you touch the map. It makes you think that maybe you didn't realize I was in charge.
 
-THOR: Quail– you– that– that's your own–
+THOR: Quail- you- that- that's your own-
 
 QUILL: Quail?
 
-THOR: –insecurities in there. Okay? I'm merely trying to be of service and assisting.
+THOR: -insecurities in there. Okay? I'm merely trying to be of service and assisting.
 
 QUILL: It's Quill.
 
@@ -3118,7 +3118,7 @@ THOR: Yes, you. Of course. Of course. Of course.
 
 [Scene cuts to Bruce, Steve, Sam and Bucky at the funeral]
 
-BRUCE BANNER: Now, remember– You have to return the stones to the exact moment you got them. Or you're gonna open up a bunch of nasty alternative realities.
+BRUCE BANNER: Now, remember- You have to return the stones to the exact moment you got them. Or you're gonna open up a bunch of nasty alternative realities.
 
 STEVE ROGERS: Don't worry, Bruce. Clip all the branches.
 
@@ -3154,11 +3154,11 @@ BRUCE BANNER: Ready, Cap? Alright. We'll meet you back here, okay?
 
 STEVE ROGERS: You bet.
 
-BRUCE BANNER: Going quantum. Three, two, one–
+BRUCE BANNER: Going quantum. Three, two, one-
 
 [Steve disappears into the Quantum portal]
 
-BRUCE BANNER: And returning in, five, four, three, two, one–
+BRUCE BANNER: And returning in, five, four, three, two, one-
 
 [Steve doesn't appear on the pad. Bruce looks around the equipment]
 
@@ -3224,7 +3224,7 @@ Sam Wilson: [seeing elderly Steve's wedding ring] You wanna tell me about her?
 
 (OLD) STEVE ROGERS: [smiling] No. No, I don't think I will. [Last lines]
 
-[In the final scenes, Steve has time traveled back to the 1940s to be with Peggy Carter. They are seen dancing to "It's Been a Long, Long Time" in their home, and they end with a kiss.] – "It's Been a Long, Long Time" performed by Harry James and His Orchestra, sung by Kitty Kallen, written by Sammy Cahn and Jule Styne
+[In the final scenes, Steve has time traveled back to the 1940s to be with Peggy Carter. They are seen dancing to "It's Been a Long, Long Time" in their home, and they end with a kiss.] - "It's Been a Long, Long Time" performed by Harry James and His Orchestra, sung by Kitty Kallen, written by Sammy Cahn and Jule Styne
 
 [In the very end of the film, the sound of hammering metal is heard in the background. A dedication to Tony Stark and a callback to the first Iron Man]
 
