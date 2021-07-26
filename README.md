@@ -28,7 +28,7 @@ Now install the OpenAI package:
 (venv) $ pip install openai
 ```
 
-Set the OpenAI key as an environment variable using the following command (replace <...> with your key):
+Set your OpenAI key (join the waitlist [here](https://openai.com/blog/openai-api/) if you don't have one - this repo won't be of use to you unless you have one) as an environment variable using the following command (replace <...> with your key):
 
 Windows:
 
