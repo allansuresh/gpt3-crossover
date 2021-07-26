@@ -1,27 +1,53 @@
 from gpt3 import gpt3
 
 
-def chat():
-    prompt = "Arun Jose was declared Supreme Ruler of Earth Today; Governments Deliberate on Implications\n"
+def finetuned_gpt3(model, prompt):
+   answer, prompt = gpt3(prompt,
+                        model=model,
+                        temperature=0.7,
+                        frequency_penalty=1,
+                        presence_penalty=1,
+                        start_text='',
+                        restart_text='',
+                        stop_seq=["\n"])
+
+   return answer, prompt
+
+
+def generic_gpt3(prompt):
+    answer, prompt = gpt3(prompt,
+                        temperature=0.7,
+                        frequency_penalty=0.25,
+                        presence_penalty=0.25,
+                        start_text='',
+                        restart_text='',
+                        stop_seq=["\n"])
+
+    return answer, prompt
+
+
+def main():
+    # Name of finetuned model you want to use
+    model = "curie:ft-user-8vvgaglgwj7ddjz3wpbnelsv-2021-07-26-15-48-58"
+
+    prompt = """Steve: Is everything a joke to you?
+    Tony: Funny things.
+    Steve:"""
 
     flag = True
 
     while flag:
-        answer, prompt = gpt3(prompt,
-                              temperature=0.7,
-                              frequency_penalty=1,
-                              presence_penalty=1,
-                              start_text='',
-                              restart_text='',
-                              stop_seq=None)
-        
-        print(prompt + answer)
+        # Comment out one of these, depending on which you want to use
+        answer, prompt = finetuned_gpt3(model, prompt)
+        # answer, prompt = generic_gpt3(prompt)
 
-        inp = input("Try again? Y/N: ")
-        if inp != "Y":
+        print(answer)
+
+        inp = input()
+        if inp == "Quit":
             flag = False
-
-    print("Exiting.")
+        else:
+            prompt = answer + inp
 
 if __name__ == '__main__':
-    chat()
+    main()

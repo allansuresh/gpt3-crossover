@@ -44,6 +44,10 @@ The `gpt3.py` file contains the function that calls the API, and the `program.py
 python program.py
 ```
 
+This returns a line of dialogue given the prompt in the file (which can be edited - stick to that format though, it works best), and skips to a new line asking for input.  Give the name of a character followed by `:`, press Enter, and the process repeats.  When you want to stop, just type `Quit`.
+
+You can also use the vanilla GPT-3 model if you want, by commenting out the line in the `main()` function that calls `finetuned_gpt3()` and uncommenting the line that calls `generic_gpt3()`.
+
 # Finetune
 
 If you want to try finetuning using your own data, format it in a JSONL file according to [these](https://beta.openai.com/docs/guides/fine-tuning) requirements.  After that, upload your file by editing the `filename` variable in the `finetune.py` file to the name of your file, and running the Python script as follows:
@@ -63,3 +67,5 @@ Now, edit the `file_id` variable in `finetune.py` with the file ID you just got.
 ```shell
 python finetune.py f
 ```
+
+Other functionalities using this program including deleting an uploaded file (pass `d` as argument after editing the file ID in the program), and listing all finetuning jobs (pass `fl` as argument).

@@ -78,7 +78,7 @@ def convert_to_tuple(data, names):
 	for line in data:
 		split_index = line.find(":")
 
-		# speaker contains part of string until ":", including ":"
+		# speaker contains part of string until ":"
 		speaker = line[:split_index+1].strip()
 		response = line[split_index+1:].strip()
 
@@ -91,6 +91,11 @@ def convert_to_tuple(data, names):
 
 		prompt = prev + "\n" + names[speaker[:-1].lower()] + ":"
 		prev = response
+
+		# Making sure ":" is a unique suffix for prompts
+		prompt = prompt.replace(":","") + ":"
+		# Common string at the end to indicate to model where completion should end.
+		response = response + "\n\n###\n\n"
 
 		# Unicode characters are hard to deal with, so if they're in these, best to drop those lines
 		if str.isascii(prompt) and str.isascii(response):
