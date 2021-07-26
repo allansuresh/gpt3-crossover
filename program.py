@@ -33,6 +33,7 @@ def main():
     prompt = """Steve: Is everything a joke to you?
     Tony: Funny things.
     Steve:"""
+    print(prompt)
 
     flag = True
 
